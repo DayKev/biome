@@ -19,11 +19,11 @@ body:
       value: |
         <details><summary>Details</summary>
         <p>
-
-
-
+        
+        Paste output here
+        
         </p>
-        </details> 
+        </details>
       render: bash
     validations:
       required: true
