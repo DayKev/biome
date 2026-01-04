@@ -28,7 +28,6 @@ body:
         
         </p>
         </details>
-      render: bash
     validations:
       required: true
   - type: textarea
